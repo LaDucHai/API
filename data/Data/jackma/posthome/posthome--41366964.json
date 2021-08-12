@@ -1,0 +1,51 @@
+{
+  "data": {
+    "userInformationPost": {
+      "id": "65464659324153",
+      "userLogin": "jackma",
+      "firstName": "Jack",
+      "lastName": "Ma",
+      "avatar": "https://tse2.mm.bing.net/th?id=OIP.zX98yZlQp6PSt5QELmBQXAHaEK&pid=Api&P=0&w=292&h=165",
+      "defineUserPost": "Define"
+    },
+    "idPost": "41366964",
+    "timePost": "20:11:1995",
+    "contentPost": "I am Rick",
+    "imagePost": [
+      "https://tse2.mm.bing.net/th?id=OIP.zX98yZlQp6PSt5QELmBQXAHaEK&pid=Api&P=0&w=292&h=165",
+      "https://tse1.mm.bing.net/th?id=OIP.RKF509D1QtNclVypv3jT5wHaJQ&pid=Api&P=0&w=300&h=300",
+      "https://khohinhdep.com/wp-content/uploads/2017/10/30-anh-dep-thien-nhien-lam-hinh-nen-dien-thoai-dep-me-ly-348-15.jpg",
+      "https://live.staticflickr.com/1860/43526893585_cc37ec703a_b.jpg",
+      "https://i.pinimg.com/originals/ff/ec/0b/ffec0b42b6d6229ca61d53dbf9bd6f74.jpg",
+      "https://3.bp.blogspot.com/-tRW74tPmzi0/VZ5miJlBExI/AAAAAAAATHQ/DR6SAuzlmJ4/s1600/hinh-anh-dep-nguoi-mau-bikini-ao-tam%2B24.jpg",
+      "https://live.staticflickr.com/1882/43718514404_e639c32b08_b.jpg",
+      "https://tse1.mm.bing.net/th?id=OIP._bmHy-NMg3nVPF3whyEJFwHaE8&pid=Api&P=0&w=243&h=163",
+      "https://3.bp.blogspot.com/-4437kku-QKA/UknmcjQNHQI/AAAAAAAAGzA/itT7cIqd_oE/s1600/anh+dep+duyen+dang+ao+dai+viet+nam+(8).jpg",
+      "https://i.ytimg.com/vi/HnmXJD5LSrE/maxresdefault.jpg"
+    ],
+    "videoPost": [
+      "http://localhost:7882/mp4/vtv.mp4",
+      "http://localhost:7882/mp4/nhac4.mp4",
+      "http://localhost:7882/mp4/nhac3.webm",
+      "http://localhost:7882/mp4/nhac2.webm",
+      "http://localhost:7882/mp4/nhac1.webm",
+      "http://localhost:7882/mp4/vtv.mp4",
+      "http://localhost:7882/mp4/nhac4.mp4",
+      "http://localhost:7882/mp4/nhac3.webm",
+      "http://localhost:7882/mp4/nhac2.webm",
+      "http://localhost:7882/mp4/nhac1.webm"
+    ],
+    "allUserLike": [
+      "123456789"
+    ],
+    "likesNumberPost": 16,
+    "allUserDisLike": [
+      "201195",
+      "123456789"
+    ],
+    "disLikesNumberPost": 11,
+    "sharesNumberPost": 23,
+    "commentsNumberPost": 1004,
+    "contentComment": []
+  }
+}

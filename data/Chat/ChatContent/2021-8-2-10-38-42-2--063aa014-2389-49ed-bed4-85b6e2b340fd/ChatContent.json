@@ -1,0 +1,16 @@
+{
+  "chatContent": [
+    {
+      "idSend": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "idReceive": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8",
+      "messageContent": "https://localhost:4000/user2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db",
+      "timestamp": "2021-8-8-10-18-15-1"
+    },
+    {
+      "idSend": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "idReceive": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8",
+      "messageContent": "https://localhost:4000/user2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db",
+      "timestamp": "2021-8-8-10-18-22-1"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "newNotifications": [],
+  "allNotifications": [
+    {
+      "id": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf82021-8-8-10-28-53-1",
+      "interactiveObject": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8",
+      "content": "sendAddFriend",
+      "time": "2021-8-8-10-28-53-1",
+      "seen": false
+    },
+    {
+      "id": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf82021-8-8-10-20-26-1",
+      "interactiveObject": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8",
+      "content": "sendAddFriend",
+      "time": "2021-8-8-10-20-26-1",
+      "seen": true
+    },
+    {
+      "id": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea9282021-7-25-2-27-56-1",
+      "interactiveObject": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "content": "sendAddFriend",
+      "time": "2021-7-25-2-27-56-1",
+      "seen": true
+    }
+  ]
+}

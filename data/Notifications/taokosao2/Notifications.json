@@ -1,0 +1,19 @@
+{
+  "newNotifications": [],
+  "allNotifications": [
+    {
+      "id": "2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db2021-8-8-10-29-3-1",
+      "interactiveObject": "2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db",
+      "content": "agreeAddFriend",
+      "time": "2021-8-8-10-29-3-1",
+      "seen": false
+    },
+    {
+      "id": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea9282021-7-29-8-48-45-5",
+      "interactiveObject": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "content": "sendAddFriend",
+      "time": "2021-7-29-8-48-45-5",
+      "seen": true
+    }
+  ]
+}

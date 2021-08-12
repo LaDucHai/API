@@ -1,0 +1,26 @@
+{
+  "data": {
+    "userInformationPost": {
+      "id": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "userLogin": "taokosao2",
+      "firstName": "tao",
+      "lastName": "kosao",
+      "avatar": "https://localhost:8000//2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8&2021-7-29-8-48-4-5&anhtest.jpg",
+      "defineUserPost": "Define"
+    },
+    "idPost": "2021-7-4-21-57-1-1",
+    "timePost": "2021-7-4-21-57-1-1",
+    "contentPost": "",
+    "imagePost": [
+      "https://localhost:8000/undefined&2021-7-4-21-57-0-1&markZuckerberg.jpg"
+    ],
+    "videoPost": [],
+    "allUserLike": [],
+    "likesNumberPost": 0,
+    "allUserDisLike": [],
+    "disLikesNumberPost": 0,
+    "sharesNumberPost": 0,
+    "commentsNumberPost": 0,
+    "contentComment": []
+  }
+}

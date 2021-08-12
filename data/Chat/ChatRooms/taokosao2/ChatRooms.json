@@ -1,0 +1,18 @@
+{
+  "chatRooms": {
+    "joinUsers": [
+      "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db"
+    ],
+    "chatRooms": [
+      {
+        "joinUser": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+        "roomName": "2021-8-2-10-38-42-2--063aa014-2389-49ed-bed4-85b6e2b340fd"
+      },
+      {
+        "joinUser": "2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db",
+        "roomName": "2021-8-8-10-29-22-1--d21d01a6-83e4-4ea8-b659-c3bb47ae0554"
+      }
+    ]
+  }
+}

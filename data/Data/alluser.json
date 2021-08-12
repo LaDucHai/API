@@ -1,0 +1,80 @@
+{
+  "alluser": [
+    {
+      "id": "2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db",
+      "userLogin": "tks",
+      "firstName": "tks",
+      "lastName": "tks",
+      "define": "undefine",
+      "avatar": "https://localhost:8000//2021-7-25-1-50-59-1--d8b81e87-db9b-47d5-bc70-aeaf9fd3d1db&2021-7-25-10-42-56-1&icon_music.png"
+    },
+    {
+      "id": "2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8",
+      "userLogin": "taokosao2",
+      "firstName": "tao",
+      "lastName": "kosao",
+      "define": "undefine",
+      "avatar": "https://localhost:8000//2021-7-3-14-42-3-7--9ee9a73a-4c05-41e1-82e4-31bcdbf9bbf8&2021-7-29-8-48-4-5&anhtest.jpg"
+    },
+    {
+      "id": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "userLogin": "taokosao1",
+      "firstName": "La",
+      "lastName": "Hai",
+      "define": "undefine",
+      "avatar": "https://localhost:8000//2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928&2021-7-25-10-43-40-1&record_btn_stopped.png"
+    },
+    {
+      "id": "2021-6-26-14-50-37-7--96c32f29-c611-40e6-9ba1-a20cab8c1081",
+      "userLogin": "taokosao",
+      "firstName": "taoko",
+      "lastName": "sao",
+      "define": "undefine",
+      "avatar": ""
+    },
+    {
+      "id": "201195",
+      "userLogin": "laduchai",
+      "firstName": "La",
+      "lastName": "Hai",
+      "define": "define",
+      "avatar": "https://tse1.mm.bing.net/th?id=OIP.mzmPJeuwJGTc6FKwRmCA8wHaEo&pid=Api&P=0&w=266&h=167"
+    },
+    {
+      "id": "20111995",
+      "userLogin": "laduchai1995",
+      "firstName": "La Duc",
+      "lastName": "Hai",
+      "define": "define",
+      "avatar": "https://tse1.mm.bing.net/th?id=OIP.mzmPJeuwJGTc6FKwRmCA8wHaEo&pid=Api&P=0&w=266&h=167"
+    },
+    {
+      "id": "6546465932415",
+      "userLogin": "billgate",
+      "firstName": "Bill",
+      "lastName": "Gate",
+      "define": "define",
+      "avatar": "https://tse2.mm.bing.net/th?id=OIP.nnqtnua0Q5VOdECPwyT16gHaFB&pid=Api&P=0&w=264&h=180",
+      "friend": "Friend",
+      "follow": "Follow"
+    },
+    {
+      "id": "65464659324152",
+      "userLogin": "elonmusk",
+      "firstName": "Elon",
+      "lastName": "Musk",
+      "define": "define",
+      "avatar": "https://tse2.mm.bing.net/th?id=OIP.FFErfc4qUihV3SYheky22QHaFj&pid=Api&P=0&w=221&h=167",
+      "friend": "Friend"
+    },
+    {
+      "id": "65464659324153",
+      "userLogin": "jackma",
+      "firstName": "Jack",
+      "lastName": "Ma",
+      "define": "define",
+      "avatar": "https://tse2.mm.bing.net/th?id=OIP.zX98yZlQp6PSt5QELmBQXAHaEK&pid=Api&P=0&w=292&h=165",
+      "follow": "Follow"
+    }
+  ]
+}

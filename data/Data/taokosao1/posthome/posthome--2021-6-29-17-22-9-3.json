@@ -1,0 +1,28 @@
+{
+  "data": {
+    "userInformationPost": {
+      "id": "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928",
+      "userLogin": "taokosao1",
+      "firstName": "La",
+      "lastName": "Hai",
+      "avatar": "https://localhost:8000//2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928&2021-7-25-10-43-40-1&record_btn_stopped.png",
+      "defineUserPost": "Define"
+    },
+    "idPost": "2021-6-29-17-22-9-3",
+    "timePost": "2021-6-29-17-22-9-3",
+    "contentPost": "3",
+    "imagePost": [],
+    "videoPost": [],
+    "allUserLike": [
+      "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928"
+    ],
+    "likesNumberPost": 1,
+    "allUserDisLike": [
+      "2021-6-29-10-20-37-3--33cdfe8f-64b5-4cb5-b113-e6bc10cea928"
+    ],
+    "disLikesNumberPost": 1,
+    "sharesNumberPost": 0,
+    "commentsNumberPost": 3,
+    "contentComment": []
+  }
+}
